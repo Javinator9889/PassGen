@@ -8,13 +8,13 @@
 
 ### Últimas versiones
 
-[![CircleCI](https://img.shields.io/badge/Descarga%20(x64)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/WinRepairTool/raw/master/WinRepairTool%20(x64).exe)
-[![CircleCI](https://img.shields.io/badge/Descarga%20(x86)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/WinRepairTool/raw/master/WinRepairTool%20(x32).exe)
+[![CircleCI](https://img.shields.io/badge/Descarga%20(x64)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/PassGen/blob/master/PASSGEN%20(x64).exe)
+[![CircleCI](https://img.shields.io/badge/Descarga%20(x86)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/PassGen/blob/master/PASSGEN%20(x86).exe)
 
 
 ### Obtén otra versión disponible
 
-[![CircleCI](https://img.shields.io/badge/Descargas-Otras%20versiones-green.svg)](https://goo.gl/u75kUh)
+[![CircleCI](https://img.shields.io/badge/Descargas-Otras%20versiones-green.svg)](https://goo.gl/qzEeF1)
 
 
 ---------
@@ -47,9 +47,9 @@
 
 ## ¿Qué descargar?
 
-1. Si tu equipo usa una versión de Windows de *32 bits*, descarga el programa **versión x86**.
+1. Si tu equipo usa una versión de Windows de *32 bits*, descarga el programa **[versión x86](https://github.com/Javinator9889/PassGen#Descargas)**.
 
-2. Si por el contrario, tu equipo es de *64 bits*, descarga el programa **versión x64**.
+2. Si por el contrario, tu equipo es de *64 bits*, descarga el programa **[versión x64](https://github.com/Javinator9889/PassGen#Descargas)**.
 
 *[¿Cómo saber si tu equipo Windows es de 32 ó 64 bits?](https://support.microsoft.com/es-es/help/15056/windows-7-32-64-bit-faq)*
 
