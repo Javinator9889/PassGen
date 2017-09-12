@@ -47,9 +47,9 @@
 
 ## ¿Qué descargar?
 
-1. Si tu equipo usa una versión de Windows de *32 bits*, descarga el programa **[versión x86](https://github.com/Javinator9889/PassGen#Descargas)**.
+1. Si tu equipo usa una versión de Windows de *32 bits*, descarga el programa **[versión x86](https://github.com/Javinator9889/PassGen#Últimas-versiones)**.
 
-2. Si por el contrario, tu equipo es de *64 bits*, descarga el programa **[versión x64](https://github.com/Javinator9889/PassGen#Descargas)**.
+2. Si por el contrario, tu equipo es de *64 bits*, descarga el programa **[versión x64](https://github.com/Javinator9889/PassGen#Últimas-versiones)**.
 
 *[¿Cómo saber si tu equipo Windows es de 32 ó 64 bits?](https://support.microsoft.com/es-es/help/15056/windows-7-32-64-bit-faq)*
 
