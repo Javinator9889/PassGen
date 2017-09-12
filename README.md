@@ -8,8 +8,8 @@
 
 ### Últimas versiones
 
-[![CircleCI](https://img.shields.io/badge/Descarga%20(x64)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/PassGen/blob/master/PASSGEN%20(x64).exe)
-[![CircleCI](https://img.shields.io/badge/Descarga%20(x86)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/PassGen/blob/master/PASSGEN%20(x86).exe)
+[![CircleCI](https://img.shields.io/badge/Descarga%20(x64)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/PassGen/raw/master/PASSGEN%20(x64).exe)
+[![CircleCI](https://img.shields.io/badge/Descarga%20(x86)-%C3%BAltima%20versi%C3%B3n-green.svg)](https://github.com/Javinator9889/PassGen/raw/master/PASSGEN%20(x86).exe)
 
 
 ### Obtén otra versión disponible
